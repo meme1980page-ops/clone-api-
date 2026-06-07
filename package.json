@@ -1,0 +1,12 @@
+{
+  "name": "number-clone-api",
+  "version": "1.0.0",
+  "description": "Number Info API Clone - Multi Source Data",
+  "main": "api/number.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "author": "@zyro_ooo",
+  "license": "MIT"
+}
